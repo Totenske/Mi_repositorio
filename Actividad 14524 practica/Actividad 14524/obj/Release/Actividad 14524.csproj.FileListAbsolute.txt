@@ -1,0 +1,7 @@
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\bin\Release\Actividad 14524.exe.config
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\bin\Release\Actividad 14524.exe
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\bin\Release\Actividad 14524.pdb
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\obj\Release\Actividad 14524.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\obj\Release\Actividad 14524.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\obj\Release\Actividad 14524.exe
+C:\Users\Alumno\Documents\Augusto\Mi_repositorio\Actividad 14524 practica\Actividad 14524\obj\Release\Actividad 14524.pdb
