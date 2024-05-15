@@ -7,7 +7,7 @@
     <ProjectGuid>{58F61746-7DAD-4E07-8FC2-D06E5A24463E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Actividad_2_14524</RootNamespace>
-    <AssemblyName>Actividad_2_14524</AssemblyName>
+    <AssemblyName>Actividad 2 14524</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
