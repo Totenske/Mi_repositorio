@@ -17,14 +17,14 @@ namespace Actividad_3_14524
         }
         public static void VerificarAcceso() 
         { 
-        
+            Console.WriteLine("V");
         }
         public static void imprimirRecaudacion() {
-        
+            Console.WriteLine("R");
         }
         public static void MostrarAccesos() 
-        { 
-        
+        {
+            Console.WriteLine("A");
         }
         static void Main(string[] args)
         {
@@ -53,7 +53,7 @@ namespace Actividad_3_14524
                 MostarMenu();
                 opcion = Convert.ToInt32(Console.ReadLine());
             }
-            Console.WriteLine("Bye Bye");
+            Console.WriteLine("Bye Bye (°_°)");
             Console.ReadKey();
 
         }
