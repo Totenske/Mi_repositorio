@@ -24,7 +24,7 @@ namespace Actividad_4624
             for (int i = 0; i < cont - 1; i++) 
             { for (int n = i + 1;n<cont;n++)
                 {
-                    if (i > n) {
+                    if (notas[i] > notas[n]) {
                         guardar = notas[i];
                         notas[i] = notas[n];
                         notas[n] = guardar;
@@ -60,7 +60,13 @@ namespace Actividad_4624
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            
+            int acum =0;
+            for (int i = 0; i < cont; i++) 
+            {
+                acum += notas[i];
+            }
+             acum = acum / cont;
+            labelpromedio.Text = acum.ToString();
         }
 
         private void btnIngresar_Click(object sender, EventArgs e)
@@ -72,6 +78,7 @@ namespace Actividad_4624
 
         private void btnListar_Click(object sender, EventArgs e)
         {
+            lbResultado.Items.Clear();
             ordenar();
             for (int i = 0; i < cont; i++) 
             {
